@@ -1,4 +1,5 @@
 import "./App.css";
+import "./normal.css";
 
 export default function App() {
   return (
@@ -6,7 +7,7 @@ export default function App() {
       <aside className="sidemenu">
         <h1>Aside</h1>
       </aside>
-      <section></section>
+      <section className="chatbox"></section>
     </div>
   );
 }
