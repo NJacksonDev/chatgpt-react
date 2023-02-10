@@ -101,16 +101,16 @@
 }
 
 .chat-message {
+}
+
+.chat-message-center {
+  max-width: 480px;
+  margin-left: auto;
+  margin-right: auto;
   padding: 12px;
   display: flex;
   padding-left: 24px;
   padding-right: 24px;
-  max-width: 480px;
-  margin-left: auto;
-  margin-right: auto;
-}
-
-.chat-message-center {
 }
 
 .avatar {
